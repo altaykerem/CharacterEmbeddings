@@ -17,9 +17,9 @@ I tried just that and then made a plot to see if those representations
 makes any sense. Below are some screenshots of the clusters within that
 plot.  
 
-<img src="./documents/poincare1.PNG" alt="drawing" width="100">
-<img src="./documents/poincare2.PNG" alt="drawing" width="100">
-<img src="./documents/poincare3.PNG" alt="drawing" width="100">
+<img src="./documents/poincare1.PNG" alt="drawing" width="400">
+<img src="./documents/poincare2.PNG" alt="drawing" width="400">
+<img src="./documents/poincare3.PNG" alt="drawing" width="400">
 
 From what I see from the plot these representations look usable, but upon
 some further investigation some features are lost.  
