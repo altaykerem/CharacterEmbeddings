@@ -17,12 +17,12 @@ I tried just that and then made a plot to see if those representations
 makes any sense. Below are some screenshots of the clusters within that
 plot.  
 
-<img src="./documents/poincare1.PNG" alt="drawing" width="400">
-<img src="./documents/poincare2.PNG" alt="drawing" width="400">
-<img src="./documents/poincare3.PNG" alt="drawing" width="400">
+<img src="./documents/poincare.PNG" alt="drawing" width="500">
 
 From what I see from the plot these representations look usable, but upon
-some further investigation some features are lost.  
+some further investigation you can see for yourself that features are lost.  
+(Ex: "a" must be more similar to the lowercase symbol "lower" than "A" is)
+Nonetheless the result looks encouraging.
 
 ## References
 1. Nickel, Maximilian and Kiela, Douwe. Poincaré Embeddings for Learning Hierarchical Representations. Advances in Neural Information Processing Systems 30, 6341--6350. IEEE, 2017. [http://papers.nips.cc/paper/7213-poincare-embeddings-for-learning-hierarchical-representations.pdf]
